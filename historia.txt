@@ -7,4 +7,4 @@ Mañana nos enfocaremos en su vida laboral.
 Editado desde github
 Carita triste carita triste
 
-hice un cambio desde mi computadora local de escritorio
+hice un cambio desde mi computadora local de escritorio y ahora estoy en un fork
